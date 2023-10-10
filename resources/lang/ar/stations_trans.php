@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'stations' => 'المحطات',
+    'stations_list' => 'قائمة المحطات',
+    'title_page' => 'قائمة المحطات',
+    'add_station' => 'إضافة محطة',
+    'name' => 'الاسم',
+    'city_name' => 'اسم المدينة',
+    'choose_station_type' => 'اختر نوع المحطة',
+    'station_type' => 'نوع المحطة',
+    'processes' => 'العمليات',
+    'edit_station' => 'تعديل بيانات المحطة',
+    'show_station' => 'عرض بيانات المحطة',
+    'station_name_ar' => 'اسم المحطة باللغة العربية',
+    'station_name_en' => 'اسم المحطة باللغة الإنجليزية',
+    'delete_station' => 'حذف محطة',
+    'warning_station' => 'هل أنت متأكد من عملية الحذف ؟',
+    'station_name_ar_validation' => 'اسم المحطة باللغة العربية مطلوب',
+    'station_name_en_validation' => 'اسم المحطة باللغة الإنجليزية مطلوب',
+    'station_type_validation' => 'نوع المحطة مطلوب',
+    'city_id_validation' => 'اسم المدينة مطلوب',
+    'up' => 'صعود',
+    'down' => 'نزول',
+    'up_down' => 'صعود ونزول',
+    'choose' => 'اختر من القائمة',
+    'choose_city_name' => 'اختر اسم المدينة',
+];
